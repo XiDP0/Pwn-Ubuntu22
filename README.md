@@ -5,6 +5,10 @@
 链接: https://pan.baidu.com/s/1NYJ7NywYab6LUC_kZgRxPQ?pwd=xidp 提取码: xidp 
 --来自百度网盘超级会员v1的分享
 
+虚拟机密码:
+xidp: xidpxidp..
+root: xidpxidp..
+
 ### 目前包含的工具：
 
 1. **pwntools**：用于编写和调试利用代码的Python库。
