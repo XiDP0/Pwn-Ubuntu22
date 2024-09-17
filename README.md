@@ -6,8 +6,10 @@
 --来自百度网盘超级会员v1的分享
 
 虚拟机密码:
-xidp: xidpxidp..
-root: xidpxidp..
+
+用户xidp: xidpxidp..
+
+用户root: xidpxidp..
 
 ### 目前包含的工具：
 
